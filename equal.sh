@@ -1,10 +1,10 @@
 #!/bin/bash
-echo "Enter the number"
-read Num
-num1=5
-if [ $Num -eq $num1 ]
+# echo "Enter the number"
+# read Num
+num=5
+if [ $num -eq 5 ]
 then 
-	echo "Give no is $Num "
+	echo "Give no is eual to 5 "
 else 
 	echo "Given no is not 5 "
 fi
