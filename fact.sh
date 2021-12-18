@@ -1,7 +1,7 @@
 #!/bin/bash
 #editted by pavan
-echo "enter the value N "
-read num
+# echo "enter the value N "
+num=4
 mul=1
 while [  $num -gt 0 ]
 do
